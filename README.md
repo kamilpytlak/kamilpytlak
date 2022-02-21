@@ -43,4 +43,5 @@ My name is Kamil Pytlak and currently I'm a bioinformatics student. I was born i
 ## 🏃‍♂️ Hobbies:
 * 🤓 **Data Science** - keenly interested in topics related to statistics/machine learning; an active reader of *Towards Data Science*;
 * 🧠 **Neuroscience** - interested in the topics related to the learning process as well as the human brain: how it functions, and how to improve it;
-* 🏃 **Running** - an avid runner of short distances (5-10 km).
+* 🏃 **Running** - an avid runner of short distances (5-10 km);
+* 📚 **Books** - fan of fantasy (both Polish and foreign).
