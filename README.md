@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kamil Pytlak and currently I'm a bioinformatics student. I was born in Greece, but I live in Poland. I have a keen interest in Data Science/machine learning topics, which I'm eager to implement in the projects I work on. In the future, I hope to work as a Data Scientist/Machine Learning Engineer. You can also find me on my [LinkedIn](https://www.linkedin.com/in/kamil-pytlak/). Also check my [Kaggle](https://www.kaggle.com/kamilpytlak) profile!
+My name is Kamil Pytlak and currently I'm a bioinformatics student. I was born in Greece, but I live in Poland. I have a keen interest in Data Science/machine learning topics, which I'm eager to implement in the projects I work on. In the future, I hope to work as a Data Scientist/Machine Learning Engineer. You can find me on my [LinkedIn](https://www.linkedin.com/in/kamil-pytlak/). Also check my [Kaggle](https://www.kaggle.com/kamilpytlak) profile!
 
 ## 🔧 Technologies, Tools & Skills
 
