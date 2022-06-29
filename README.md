@@ -36,8 +36,8 @@ My name is Kamil Pytlak and currently I'm a bioinformatics student. I was born i
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamilpytlak&repo=covid-19-analyzer-R&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/kamilpytlak/data-analyses">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamilpytlak&repo=data-analyses&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/kamilpytlak/data-analytics-projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kamilpytlak&repo=data-analytics-projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 ## 🏃‍♂️ Hobbies:
